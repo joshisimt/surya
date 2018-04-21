@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 hello
 surya
 chandra
 joshi
+=======
+yelo
+sapru
+hitu
+>>>>>>> 3ea84906c71af06b3b1750ef0f17a5f537591b23
